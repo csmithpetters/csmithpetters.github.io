@@ -3027,14 +3027,14 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-			/*#header .actions:after {
+			#header .actions:after {
 				background: #ffffff;
 				content: '';
 				height: 100vh;
 				left: 50%;
 				position: absolute;
 				top: 100%;
-				width: 1px;*/
+				width: 0px;
 			}
 
 		#header .inner {
