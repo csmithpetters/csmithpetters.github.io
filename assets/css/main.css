@@ -2828,6 +2828,8 @@ input, select, textarea {
 			background-attachment: fixed,							fixed;
 			background-image: url("images/flatirons.jpg"), url("../../images/flatirons.jpg");
 			background-size: auto,							cover;
+			filter: blur(8px);
+  		-webkit-filter: blur(8px);
 		}
 
 			.main.style2 a {
